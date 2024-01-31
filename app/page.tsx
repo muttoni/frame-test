@@ -4,7 +4,10 @@ import type { Metadata } from 'next';
 const frameMetadata = getFrameMetadata({
   buttons: [
     {
-      label: 'register your IP',
+      label: 'Register your IP',
+    },
+    {
+      label: 'Mint a License',
     },
   ],
   image: 'https://i.imgur.com/kmsP6EM.jpeg',

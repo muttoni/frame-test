@@ -17,7 +17,7 @@ async function getResponse(req: NextRequest): Promise<NextResponse> {
     <meta property="fc:frame" content="vNext" />
     <meta property="fc:frame:image" content="https://i.imgur.com/kmsP6EM.jpeg" />
     <meta property="fc:frame:button:1" content="${accountAddress}" />
-    <meta property="fc:frame:post_url" content="https://zizzamia.xyz/api/frame" />
+    <meta property="fc:frame:post_url" content="https://frame-test-five.vercel.app/api/frame" />
   </head></html>`);
 }
 
