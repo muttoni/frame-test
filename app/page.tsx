@@ -11,7 +11,7 @@ const frameMetadata = getFrameMetadata({
     },
   ],
   image: 'https://i.imgur.com/kmsP6EM.jpeg',
-  post_url: 'https://zizzamia.xyz/api/frame',
+  post_url: 'https://frame-test-five.vercel.app/api/frame',
 });
 
 export const metadata: Metadata = {
